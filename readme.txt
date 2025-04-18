@@ -2,32 +2,31 @@
 # README
 -----------------------
 
-Listrace is a bootstrap 3 framework based html5/css3 directory listing template.It will help developers to rapidly built a directory website
-
+Bahula.com is a responsive, multilingual HTML5/CSS3 web template built with a focus on dynamic language switching using JavaScript. It allows users to switch between Arabic, English, and German within a single-page structure.
 
 Template Info:
 -----------------------
-Name: 		Listrace - free directory template
-Version: 	1.0
-Author: 	ThemeSINE
-Website: 	https://www.themesine.com/
-
+Name:       Bahula - Multilingual Web Template
+Version:    1.0
+Author:     Malamin Jagana
+Website:    https://malaminjagana.github.io/bahula-com/
 
 Changelog:
 -----------------------
-Version 1.0 21-05-2018
-- initial release 
-
+Version 1.0 - 18-04-2025
+- Initial release with dynamic language switching using JavaScript
+- Default language set to Arabic
+- RTL support for Arabic
+- Language preference stored in localStorage
 
 Credits:
 -----------------------
-- Twitter Bootstrap http://getbootstrap.com
-- jQuery http://jquery.org
-- Modernizr https://modernizr.com/
-- Sticky.js http://stickyjs.com/
-- JQuery easing https://github.com/gdsmith/jquery.easing
-- Bootsnav http://bootsnav.danurstrap.com/
+- Twitter Bootstrap 3  http://getbootstrap.com
+- jQuery              http://jquery.org
+- Modernizr           https://modernizr.com/
+- JavaScript          https://developer.mozilla.org/en-US/docs/Web/JavaScript
+- LocalStorage        https://developer.mozilla.org/en-US/docs/Web/API/Window/localStorage
 
 License:
 -----------------------
-Free License - https://www.themesine.com/license/
+Open Source - For educational and personal use. Commercial use allowed with attribution.
